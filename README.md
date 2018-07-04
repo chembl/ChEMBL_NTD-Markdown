@@ -1,6 +1,6 @@
 # ChEMBL-NTD
 
-Welcome to the **ChEMBL - Neglected Tropical Disease** archive, a repository for Open Access primary screening and medicinal chemistry data directed at neglected diseases - endemic tropical diseases of the developing regions of the Africa, Asia, and the Americas. The primary purpose of ChEMBL-NTD is to provide a freely accessible and permanent archive and distribution centre for deposited data. ChEMBL-NTD is a subset of the data in the free medicinal chemistry and drug discovery database [ChEMBL](http://www.ebi.ac.uk/chembl/beta/). We actively encourage download and use of the data, we have also provided some simple search and analysis tools on this site to allow exploration and querying of the data.
+Welcome to the **ChEMBL - Neglected Tropical Disease** archive, a repository for Open Access primary screening and medicinal chemistry data directed at neglected diseases - endemic tropical diseases of the developing regions of the Africa, Asia, and the Americas. The primary purpose of ChEMBL-NTD is to provide a freely accessible and permanent archive and distribution centre for deposited data. ChEMBL-NTD is a subset of the data in the free medicinal chemistry and drug discovery database [ChEMBL](http://www.ebi.ac.uk/chembl/beta/). We actively encourage download and use of the [data](downloads.md).
 
 ChEMBL-NTD is maintained by EMBL-EBI at Hinxton in the United Kingdom, and has received no funding from any commercial organisation, individual or investor. More information on the EMBL-EBI can be found [here](http://www.ebi.ac.uk/).
 
