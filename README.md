@@ -20,3 +20,36 @@ We encourage all users to download, copy and redistribute these data as needed. 
 Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](http://www.ebi.ac.uk/Information/termsofuse.html)  
 
 
+
+
+### Deposited Set 21: 14th October 2016 – MMV Pathogen Box
+
+  
+Welcome to first [Medicines for Malaria Venture](http://www.mmv.org/) Pathogen Box dataset. The Pathogen Box contains 400 diverse, drug-like molecules active against neglected diseases of interest. This dataset contains biological activity confirmation data performed in the following disease areas: Tuberculosis, Malaria, Chagas disease, Leishmaniasis, Human African Trypanosomiasis, Cryptosporidiosis, Lymphatic Filariasis, Onchocerciasis, Schistosomiasis, Dengue, Chikungunya, Toxoplasmosis.   
+  
+[Medicines for Malaria Venture](http://www.mmv.org/) does not guarantee the accuracy of any data, nor the suitability of the data for any purpose, in accordance with the EBI Terms of Use.   
+  
+If you publish on, or wish to reference the data please include the link to [ChEMBL-NTD](https://chembl.gitbook.io/chembl-ntd). List of contributors:
+
+![MMV Pathogen Box](https://www.ebi.ac.uk/chemblntd/static/images/home/mmv_pathogen_box.png)
+
+* Nathan group, Weill Cornell Medical College
+* Barry Lab, NIAID NIH
+* Winzeler lab, UCSD
+* Laboratory of Microbiology, Parasitology and Hygiene \(LMPH\), Univ. of Antwerp
+* London School of Hygiene & Tropical Medicine
+* Parasite Chemotherapy Unit at Swiss Tropical and Public Health Institute
+* Huston group at the University of Vermont
+* Castellanos group at UTMB, Galveston, Texas
+* Sakanari Lab, Univ. of Calif. San Francisco
+* Townson \(Simon\) Lab, Imperial College London
+* Fidelis Cho-Ngwa Lab, University of Buea, Buea, Cameroon
+* Laboratory of Molecular Parasitology at the New York Blood Center
+* Bickle Lab, London School of Hygiene & Tropical Medicine
+* Keiser Lab, Swiss Tropical and Public Health Institute
+* Caffrey group at the Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, UC San Diego
+* University of Cape Town
+* Shanmugam group at CSIR-National Chemical Laboratory, Pune \(India\)
+* Novartis Institute for Tropical Disease-Singapore
+* Abbvie
+
