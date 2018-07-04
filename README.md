@@ -17,16 +17,16 @@ We encourage all users to download, copy and redistribute these data as needed. 
 * Users who annotate, add to, or modify these data in a way that adds significant value are encouraged to release their work to the public domain, ideally by re-contributing their findings to ChEMBL-NTD.
 * When these data are used or cited in a paper or other scholarly work please reference the citation provided in each deposition set.
 
-Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](http://www.ebi.ac.uk/Information/termsofuse.html)  
+Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](http://www.ebi.ac.uk/Information/termsofuse.html)
 
 ### Deposited Set 21: 14th October 2016 – MMV Pathogen Box
 
 ![MMV Pathogen Box](https://www.ebi.ac.uk/chemblntd/static/images/home/mmv_pathogen_box.png)
 
-Welcome to first [Medicines for Malaria Venture](http://www.mmv.org/) Pathogen Box dataset. The Pathogen Box contains 400 diverse, drug-like molecules active against neglected diseases of interest. This dataset contains biological activity confirmation data performed in the following disease areas: Tuberculosis, Malaria, Chagas disease, Leishmaniasis, Human African Trypanosomiasis, Cryptosporidiosis, Lymphatic Filariasis, Onchocerciasis, Schistosomiasis, Dengue, Chikungunya, Toxoplasmosis.   
-  
-[Medicines for Malaria Venture](http://www.mmv.org/) does not guarantee the accuracy of any data, nor the suitability of the data for any purpose, in accordance with the EBI Terms of Use.   
-  
+Welcome to first [Medicines for Malaria Venture](http://www.mmv.org/) Pathogen Box dataset. The Pathogen Box contains 400 diverse, drug-like molecules active against neglected diseases of interest. This dataset contains biological activity confirmation data performed in the following disease areas: Tuberculosis, Malaria, Chagas disease, Leishmaniasis, Human African Trypanosomiasis, Cryptosporidiosis, Lymphatic Filariasis, Onchocerciasis, Schistosomiasis, Dengue, Chikungunya, Toxoplasmosis.
+
+[Medicines for Malaria Venture](http://www.mmv.org/) does not guarantee the accuracy of any data, nor the suitability of the data for any purpose, in accordance with the EBI Terms of Use.
+
 If you publish on, or wish to reference the data please include the link to [ChEMBL-NTD](https://chembl.gitbook.io/chembl-ntd). List of contributors:
 
 * Nathan group, Weill Cornell Medical College
@@ -48,4 +48,15 @@ If you publish on, or wish to reference the data please include the link to [ChE
 * Shanmugam group at CSIR-National Chemical Laboratory, Pune \(India\)
 * Novartis Institute for Tropical Disease-Singapore
 * Abbvie
+
+### Deposited Set 20: 2nd August 2016 - SwissTPH T. brucei screening hits
+
+![Swiss TPH Image](https://www.ebi.ac.uk/chemblntd/static/images/home/swiss_tph.png)  
+
+
+Welcome to the [SwissTPH](http://www.swisstph.ch/) T. brucei screening hits dataset. The protozoan parasites Trypanosoma brucei spp., the causative agents of human sleeping sickness, are transmitted by tsetse flies. During differentiation from bloodstream forms to procyclic forms, which naturally occur in the midgut of the fly, the trypanosomes shed their coat of variant surface glycoprotein \(VSG\). This process would be lethal for the parasites while in the bloodstream of an infected patient. We searched in a medium-throughput screen for triggers that artificially stimulate differentiation towards procyclic forms at 37°C and identified 28 hits. The differentiation-inducing hits could facilitate studies on the regulation of differentiation and serve as lead scaffolds for medicinal chemistry in order to develop new treatments for sleeping sickness.   
+  
+[SwissTPH](http://www.swisstph.ch/) does not guarantee the accuracy of any data, nor the suitability of the data for any purpose, in accordance with the EBI Terms of Use.   
+  
+If you publish on, or wish to reference the data please include the link to [ChEMBL-NTD](https://www.ebi.ac.uk/chemblntd) and adapt the following citation language: Wenzler T, Schumann Burkard G, Schmidt RS, Mäser P, Bergner A, Roditi I, Brun R. A new approach to chemotherapy: drug-induced differentiation kills African trypanosomes. Sci Rep. 2016 Mar 2;6:22451. [doi:10.1038/srep22451](http://www.nature.com/articles/srep22451). 
 
