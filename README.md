@@ -19,19 +19,15 @@ We encourage all users to download, copy and redistribute these data as needed. 
 
 Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](http://www.ebi.ac.uk/Information/termsofuse.html)  
 
-
-
-
 ### Deposited Set 21: 14th October 2016 – MMV Pathogen Box
 
-  
+![MMV Pathogen Box](https://www.ebi.ac.uk/chemblntd/static/images/home/mmv_pathogen_box.png)
+
 Welcome to first [Medicines for Malaria Venture](http://www.mmv.org/) Pathogen Box dataset. The Pathogen Box contains 400 diverse, drug-like molecules active against neglected diseases of interest. This dataset contains biological activity confirmation data performed in the following disease areas: Tuberculosis, Malaria, Chagas disease, Leishmaniasis, Human African Trypanosomiasis, Cryptosporidiosis, Lymphatic Filariasis, Onchocerciasis, Schistosomiasis, Dengue, Chikungunya, Toxoplasmosis.   
   
 [Medicines for Malaria Venture](http://www.mmv.org/) does not guarantee the accuracy of any data, nor the suitability of the data for any purpose, in accordance with the EBI Terms of Use.   
   
 If you publish on, or wish to reference the data please include the link to [ChEMBL-NTD](https://chembl.gitbook.io/chembl-ntd). List of contributors:
-
-![MMV Pathogen Box](https://www.ebi.ac.uk/chemblntd/static/images/home/mmv_pathogen_box.png)
 
 * Nathan group, Weill Cornell Medical College
 * Barry Lab, NIAID NIH
