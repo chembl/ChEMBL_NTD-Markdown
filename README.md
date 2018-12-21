@@ -19,6 +19,15 @@ We encourage all users to download, copy and redistribute these data as needed. 
 
 Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](http://www.ebi.ac.uk/Information/termsofuse.html)
 
+## Deposited Set 22: 20th December 2018 – UCSD Winzeler Lab liver-stage Plasmodium screening
+
+The dataset lists compounds that may protect against malaria based on their ability to inhibit luciferase-expressing Plasmodium berghei from developing in hepatoma cells.  The dataset is the result of screening a 500,000 compound small molecule library in this assay.  Subsets of the compounds were further tested in dose response format for toxicity, biochemical luciferase inhibition, against P falciparum asexual blood stages, P. vivax hepatic stages and for inhibition of P. falciparum mitochondrial function. The dataset is the result of collaboration between the [Winzeler lab at the University of California, San Diego](http://winzeler.ucsd.edu/) and the [Medicines for Malaria Venture](https://www.mmv.org/) with assistance from many others, including members of the [Malaria Drug Accelerator](http://winzeler.ucsd.edu/malda/) and the Genomics Institute of the Novartis Research Foundation.
+
+[UCSD](https://ucsd.edu/) and [MMV](https://www.mmv.org/) do not guarantee the accuracy of any data, nor the suitability of the data for any purpose, in accordance with the EBI Terms of Use.
+
+If you wish to use the data please cite:
+Antonova-Koch Y, Meister S, Abraham M, Luth MR, Ottilie S, Lukens AK, Sakata-Kato T, Vanaerschot M, Owen E, Jado Rodriguez JC, Maher SP, Calla J, Plouffe D, Zhong Y, Chen K, Chaumeau V, Conway AJ, McNamara CW, Ibanez M, Gagaring K, Serrano FN, Eribez K, Taggard CM, Cheung AL, Lincoln C, Ambachew B, Rouillier M, Siegel D, Nosten F, Kyle DE, Gamo FJ, Zhou Y, Llinás M, Fidock DA, Wirth DF, Burrows J, Campo B, Winzeler EA. Open-source discovery of chemical leads for next-generation chemoprotective antimalarials. Science. 2018 Dec 7;362(6419). pii: eaat9446. doi: [10.1126/science.aat9446](http://science.sciencemag.org/content/362/6419/eaat9446).
+
 ## Deposited Set 21: 14th October 2016 – MMV Pathogen Box
 
 Welcome to first [Medicines for Malaria Venture](http://www.mmv.org/) Pathogen Box dataset. The Pathogen Box contains 400 diverse, drug-like molecules active against neglected diseases of interest. This dataset contains biological activity confirmation data performed in the following disease areas: Tuberculosis, Malaria, Chagas disease, Leishmaniasis, Human African Trypanosomiasis, Cryptosporidiosis, Lymphatic Filariasis, Onchocerciasis, Schistosomiasis, Dengue, Chikungunya, Toxoplasmosis.
