@@ -23,4 +23,5 @@
   * [Deposited Set 19: 5th March 2016 - UW kinase screening hits](downloads/deposited-set-19-5th-march-2016-uw-kinase-screening-hits.md)
   * [Deposited Set 20: 2nd August 2016 - SwissTPH T. brucei screening hits](downloads/deposited-set-20-2nd-august-2016-swisstph-t.-brucei-screening-hits.md)
   * [Deposited Set 21: 14th October 2016 - MMV Pathogen Box](downloads/deposited-set-21-14th-october-2016-mmv-pathogen-box.md)
+  * [Deposited Set 22: 20th December 2018 - UCSD Winzeler Lab liver-stage Plasmodium screening](downloads/deposited-set-22-20th-december-2018-ucsd-winzeler-lab-liver-stage-plasmodium.md)
 
