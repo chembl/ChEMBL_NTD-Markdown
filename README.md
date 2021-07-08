@@ -19,7 +19,7 @@ We encourage all users to download, copy and redistribute these data as needed. 
 
 Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](http://www.ebi.ac.uk/Information/termsofuse.html)
 
-## Deposited Set 24: 1st July 2021 – The discovery of a novel series of compounds with single-dose efficacy against juvenile and adult Schistosoma species
+## Deposited Set 25: 1st July 2021 – The discovery of a novel series of compounds with single-dose efficacy against juvenile and adult Schistosoma species
 
 Treatment and control of schistosomiasis depends on a single drug, praziquantel, but this is not ideal for several reasons including lack of potency against the juvenile stage of the parasite, dose size, and risk of resistance. We have optimised the properties of a series of compounds we discovered through high throughput screening and have designed candidates for clinical development. The best compounds demonstrate clearance of both juvenile and adult S. mansoni worms in a mouse model of infection from a single oral dose of < 10 mg/kg. Several compounds in the series are predicted to treat schistosomiasis in humans across a range of species with a single oral dose of less than 5 mg/kg
 
