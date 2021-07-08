@@ -25,3 +25,4 @@
   * [Deposited Set 21: 14th October 2016 - MMV Pathogen Box](downloads/deposited-set-21-14th-october-2016-mmv-pathogen-box.md)
   * [Deposited Set 22: 20th December 2018 - UCSD Winzeler Lab liver-stage Plasmodium screening](downloads/deposited-set-22-20th-december-2018-ucsd-winzeler-lab-liver-stage-plasmodium.md)
   * [Deposited Set 23: 28th January 2020 - Probing the Open Global Health Chemical Diversity Library for multistage-active starting points for next-generation antimalarials](downloads/deposited-set-23-ucsd-ghcdl-dataset-28th-january-2020.md)
+  * [Deposited Set 25: 1st July 2021 - The discovery of a novel series of compounds with single-dose efficacy against juvenile and adult Schistosoma species](downloads/deposited-set-25-schistosoma-dataset-1st-july-2021.md)
