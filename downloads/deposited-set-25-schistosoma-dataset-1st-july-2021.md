@@ -5,3 +5,4 @@
 | Description | Download |
 | :--- | :--- |
 | Screening Data | [Schistosoma_Gardner.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set25_schistosoma/Schistosoma_Gardner.xlsx) |
+| Compound Structures | [COMPOUND_CTAB.sdf](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set25_schistosoma/COMPOUND_CTAB.sdf) |
