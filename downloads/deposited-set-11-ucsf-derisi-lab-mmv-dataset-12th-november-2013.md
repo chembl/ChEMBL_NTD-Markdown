@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| UCSF DeRisi Lab MMV Dataset | [MMV-IPP-ScreeningResults.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set11_ucsf_pf/MMV-IPP-ScreeningResults.xlsx) |
+| UCSF DeRisi Lab MMV Dataset | [MMV-IPP-ScreeningResults.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set11_ucsf_pf/MMV-IPP-ScreeningResults.xlsx) |
 

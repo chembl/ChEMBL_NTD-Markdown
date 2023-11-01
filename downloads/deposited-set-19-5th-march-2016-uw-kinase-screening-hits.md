@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| UW kinase screening hits | [UW\_TCMDC\_all\_screened.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set19_uw/UW_TCMDC_all_screened.xlsx) |
+| UW kinase screening hits | [UW\_TCMDC\_all\_screened.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set19_uw/UW_TCMDC_all_screened.xlsx) |
 

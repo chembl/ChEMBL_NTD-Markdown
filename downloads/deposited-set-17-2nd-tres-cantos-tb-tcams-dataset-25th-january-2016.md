@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| GSK TCAMS TB dataset compound and activity values | [GSK\_TC\_TBset-final.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set17_tcams_tb/GSK_TC_TBset-final.xlsx) |
+| GSK TCAMS TB dataset compound and activity values | [GSK\_TC\_TBset-final.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set17_tcams_tb/GSK_TC_TBset-final.xlsx) |
 

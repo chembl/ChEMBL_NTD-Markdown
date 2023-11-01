@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| MMV Antimalarial Dataset | [178\_MMV\_MalarJ.xls](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set12_MMV/178_MMV_MalarJ.xls) |
+| MMV Antimalarial Dataset | [178\_MMV\_MalarJ.xls](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set12_MMV/178_MMV_MalarJ.xls) |
 

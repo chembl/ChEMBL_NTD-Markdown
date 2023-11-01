@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| SwissTPH T. brucei screening hits | [T.brucei differentiation\_NTD.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set20_unibas/T.brucei%20differentiation_NTD.xlsx) |
+| SwissTPH T. brucei screening hits | [T.brucei differentiation\_NTD.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set20_unibas/T.brucei%20differentiation_NTD.xlsx) |
 

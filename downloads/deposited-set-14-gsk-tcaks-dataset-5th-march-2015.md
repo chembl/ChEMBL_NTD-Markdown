@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| GSK TCAKS Dataset | [KinetoBoxes\_final.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set14_gsk/KinetoBoxes_final.xlsx) |
+| GSK TCAKS Dataset | [KinetoBoxes\_final.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set14_gsk/KinetoBoxes_final.xlsx) |
 

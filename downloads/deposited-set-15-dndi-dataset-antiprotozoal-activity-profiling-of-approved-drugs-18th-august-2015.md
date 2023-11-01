@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| DNDi Antiprotozoal dataset | [Approved\_Drugs\_data.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set15_dndi_antiprot/Approved_Drugs_data.xlsx) |
+| DNDi Antiprotozoal dataset | [Approved\_Drugs\_data.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set15_dndi_antiprot/Approved_Drugs_data.xlsx) |
 

@@ -4,8 +4,8 @@
 
 | Description | Download |
 | :--- | :--- |
-| Novartis GNF liver stage dataset | [liver\_stage\_final\_screeing\_data.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set4_gnf_liver/liver_stage_final_screeing_data.xlsx) |
-| Novartis GNF liver stage structures \(smiles format\) | [liver\_stage\_final\_screeing\_data.sdf](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set4_gnf_liver/liver_stage_final_screeing_data.sdf) |
+| Novartis GNF liver stage dataset | [liver\_stage\_final\_screeing\_data.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set4_gnf_liver/liver_stage_final_screeing_data.xlsx) |
+| Novartis GNF liver stage structures \(smiles format\) | [liver\_stage\_final\_screeing\_data.sdf](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set4_gnf_liver/liver_stage_final_screeing_data.sdf) |
 
 ## 
 

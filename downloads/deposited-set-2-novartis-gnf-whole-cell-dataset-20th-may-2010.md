@@ -4,6 +4,6 @@
 
 | Description | Download |
 | :--- | :--- |
-| Novartis GNF whole cell dataset | [Novartis\_GNF.xls](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set2_gnf/Novartis_GNF.xls) |
-| Novartis GNF whole cell dataset assay descriptions | [Novartis\_GNF\_Assay\_Desc.doc](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set2_gnf/Novartis_GNF_Assay_Desc.doc) |
+| Novartis GNF whole cell dataset | [Novartis\_GNF.xls](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set2_gnf/Novartis_GNF.xls) |
+| Novartis GNF whole cell dataset assay descriptions | [Novartis\_GNF\_Assay\_Desc.doc](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set2_gnf/Novartis_GNF_Assay_Desc.doc) |
 

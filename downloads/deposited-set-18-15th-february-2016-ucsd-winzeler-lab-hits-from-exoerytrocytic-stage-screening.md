@@ -4,5 +4,5 @@
 
 | Description | Download |
 | :--- | :--- |
-| Exoerythrocytic-stage screening hits dataset | [UCSD\_Broad.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set18_ucsd/UCSD_Broad.xlsx) [UCSD\_MMV\_Box.xlsx](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set18_ucsd/UCSD_MMV_Box.xlsx) |
+| Exoerythrocytic-stage screening hits dataset | [UCSD\_Broad.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set18_ucsd/UCSD_Broad.xlsx) [UCSD\_MMV\_Box.xlsx](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLNTD/set18_ucsd/UCSD_MMV_Box.xlsx) |
 
