@@ -21,9 +21,11 @@ Access to the ChEMBL-NTD data is under the [EMBL-EBI's standard Terms of Use](ht
 
 ##
 
-## Deposited Set 27: 23 Jan 2024 - RapidFire TcLAP Compounds Screening
+## Deposited Set 27: 23 Jan 2024 - Identification of inhibitors of _Trypanosoma cruzi_ M17 leucyl-aminopeptidase (TcLAP/LAPTc)&#x20;
 
-3328 compounds that harbour common protease inhibitor motifs was screened at 30 µM against LAPTc using RapidFire-MS method for inhibitory activity against TcLAP protein.
+A library of 3328 compounds that harbour common protease inhibitor motifs was screened at 30 µM against LAPTc using a RapidFire-MS method.
+
+If you wish to use the data please cite: Maikel Izquierdo, De Lin, Sandra O’Neill, Lauren A. Webster, Christy Paterson, John Thomas, Mirtha Elisa Aguado, Enrique Colina Araújo, Daniel Alpízar-Pedraza, Halimatu Joji, Lorna MacLean, Anthony Hope, David W. Gray, Martin Zoltner, Mark C. Field, Jorge González-Bacerio and Manu De Rycker. Identification of a potent and selective LAPTc inhibitor by RapidFire-Mass Spectrometry, with antichagasic activity. PLOS NTD. 2024 (Accepted).
 
 ## Deposited Set 26: 3 March 2023 – Using ChEMBL to complement schistosome drug discovery
 
