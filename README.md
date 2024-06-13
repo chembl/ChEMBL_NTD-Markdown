@@ -1,6 +1,14 @@
 # ChEMBL-NTD
 
-Welcome to the **ChEMBL - Neglected Tropical Disease** archive, a repository for Open Access primary screening and medicinal chemistry data directed at neglected diseases - endemic tropical diseases of the developing regions of the Africa, Asia, and the Americas. The primary purpose of ChEMBL-NTD is to provide a freely accessible and permanent archive and distribution centre for deposited data. ChEMBL-NTD is a subset of the data in the free medicinal chemistry and drug discovery database [ChEMBL](http://www.ebi.ac.uk/chembl/beta/). We actively encourage download and use of the [data](downloads/).
+Welcome to the **ChEMBL - Neglected Tropical Disease** archive.
+
+ChEMBL-NTD is a repository for Open Access primary screening and medicinal chemistry data directed at [neglected tropical diseases](https://www.who.int/news-room/questions-and-answers/item/neglected-tropical-diseases). By the WHO definition _“Neglected tropical diseases (NTDs) are a diverse group of conditions that are mainly prevalent in tropical areas, where they thrive among people living in impoverished communities”._
+
+The primary purpose of ChEMBL-NTD is to provide a freely accessible and permanent archive and distribution centre for deposited data. We actively encourage download and use of the [data](downloads/).&#x20;
+
+ChEMBL-NTD is largely a subset of the data in the free medicinal chemistry and drug discovery database [ChEMBL](http://www.ebi.ac.uk/chembl/beta/). It is intended for NTD data that require time-sensitive deposition into an open repository, and cannot wait until the next ChEMBL release cycle. Most NTD data deposited to ChEMBL will not need to be deposited here.&#x20;
+
+Unlike ChEMBL, this is not a curated data source, and its accuracy or consistency is solely up to the depositor. If a dataset is available in the latest ChEMBL release, we advice looking it up there.
 
 ChEMBL-NTD is maintained by EMBL-EBI at Hinxton in the United Kingdom, and has received no funding from any commercial organisation, individual or investor. More information on the EMBL-EBI can be found [here](http://www.ebi.ac.uk/).
 
